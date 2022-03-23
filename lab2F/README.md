@@ -6,3 +6,5 @@ Solution:
 -The operands and operators have a set and get function used to store and return the user-defined values. In the Set operator function, a switch case is used to assign the “enum” operator based on the input. In the get operator function, a switch case is used to return the operator based on the value sorted in “operator”. 
 - The “Calculate()” function is made to do perform calculations based on the operator. In this function, switch cases are used to see what operator is to be used by the user. The desired operator is used to perform the calculation of the two operands and return the result.  In the case of square root, only “op1” is used to perform the calculation.
 -The “Display()” function is used to compensate for the squire root operator as it only requires one operand. If the statement is used to check if the squire root operator is used or not and the result is displayed accordingly.
+
+<img width="391" alt="Screen Shot 2022-03-23 at 7 57 11 PM" src="https://user-images.githubusercontent.com/75391618/159815732-0d2a9ddc-602a-4dae-bef3-c5b9440f8de6.png">
