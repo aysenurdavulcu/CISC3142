@@ -5,4 +5,7 @@ To run:
 3. Display output "./a.out" 
 
 Expected output:
-<img width="506" alt="Screen Shot 2022-05-01 at 2 59 26 PM" src="https://user-images.githubusercontent.com/75391618/166160874-5397aabb-dbc9-484f-92e2-b75790daeafd.png">
+
+
+
+<img width="355" alt="Screen Shot 2022-05-01 at 2 59 26 PM" src="https://user-images.githubusercontent.com/75391618/166160911-8065ef23-81c8-4fa2-b5d9-ebd0a57b2ff0.png">
